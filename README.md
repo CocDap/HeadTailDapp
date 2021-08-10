@@ -1,5 +1,6 @@
 # Blockchain workshop
-
+# Origin Project: https://github.com/Kuzirashi/blockchain-workshop/tree/godwoken
+# Only for hackathon-nervos task 7: Gitcoin: 7) Port An Existing Ethereum DApp To Polyjuice
 Install:
 ```
 yarn
